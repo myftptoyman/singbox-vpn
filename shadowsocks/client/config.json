@@ -54,7 +54,7 @@
 	"outbounds": [{
 			"type": "shadowsocks",
 			"tag": "shadowsocks-out",
-			"server": "SERVER-IP-ADDRESS",
+			"server": "114.34.227.181",
 			"server_port": 5353,
 			"method": "2022-blake3-aes-128-gcm",
 			"password": "8JCsPssfgS8tiRwiMlhARg=="
